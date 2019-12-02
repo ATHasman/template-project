@@ -2,3 +2,11 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: brown;
 }
+
+.student-contributor {
+    text-align: center;
+    font-size: 2em;
+}
+
+p {
+}
